@@ -12,7 +12,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // to zmieniony tekst przez mnie!!!
+        // to zmieniony tekst przez mnie!!!!
     }
 
 
